@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/quantgeekdev-mcp-oauth2-1-server-badge.png)](https://mseep.ai/app/quantgeekdev-mcp-oauth2-1-server)
+
 # MCP Server Reference Implementation
 
 This is a reference MCP Server implementation of the [draft Authorization spec updates](https://modelcontextprotocol.io/specification/draft/basic/authorization#2-3-authorization-server-discovery) using the official typescript sdk.
